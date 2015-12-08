@@ -8,7 +8,7 @@
 
 <h3>1. Initiate git</h3>
 
-<pre><code>git clone -b dev https://github.com/SOEProject/SOEProject.git
+<pre><code>git clone -b dev https://github.com/MarcusElwin/csgo-rsd-ist-insa.git
 </code></pre>
 
 <p>
@@ -74,7 +74,7 @@ git checkout local_dev
 
 </section>
       <footer>
-        <p>This project is maintained by <a href="https://github.com/SOEProject/SOEProject.git">SOEProject</a></p>
+        <p>This project is maintained by <a href="https://github.com/MarcusElwin/csgo-rsd-ist-insa.git">SOEProject</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
